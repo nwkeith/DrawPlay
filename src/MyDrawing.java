@@ -3,7 +3,14 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+/** MyDrawing class
+ * 
+ * @author Nathan Keith
+ * @author Keegan Bean
+ * @author Mark Baldwin
+ * 
+ * Class for drawing. Used for testing Git
+ */
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 

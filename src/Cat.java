@@ -2,6 +2,15 @@ import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
 
+/** Cat class
+ * 
+ * @author Nathan Keith
+ * @author Keegan Bean
+ * @author Mark Baldwin
+ * 
+ * Class for drawing a cat. Used for testing Git
+ */
+
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension

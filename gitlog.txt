@@ -1,0 +1,53 @@
+commit 8ebdcec139b329093bb919a6550abc9977e84404
+Author: nwkeith <nwkeith@fortlewis.edu>
+Date:   Thu Feb 13 12:23:34 2020 -0700
+
+    Changed text to CAT
+
+commit be50cb4fa34f15076465b44f99d1ecc0ba474192
+Author: keeganibean <keeganibean@gmail.com>
+Date:   Thu Feb 13 12:22:01 2020 -0700
+
+    Changed the eye color to yellow
+
+commit 87c6929df9b88d7c04a141ca76d05e83e0c704b0
+Author: nwkeith <nwkeith@fortlewis.edu>
+Date:   Thu Feb 13 12:20:42 2020 -0700
+
+    Changed mouth color to red
+
+commit 267d77347f572e8ef15d3701a599d5520dd0ebc5
+Author: keeganibean <keeganibean@gmail.com>
+Date:   Thu Feb 13 12:19:17 2020 -0700
+
+    Changed the height of the cat's mouth
+
+commit a5a763b5c1ad1fd5af7a7050f927c717a3090024
+Author: nwkeith <nwkeith@fortlewis.edu>
+Date:   Thu Feb 13 12:17:01 2020 -0700
+
+    Increased cat head size
+
+commit 7b0f6848547991b2d34bb8348d458e116fb6b9c8
+Author: keeganibean <keeganibean@gmail.com>
+Date:   Thu Feb 13 12:11:38 2020 -0700
+
+    Changed the location of the cat
+
+commit ccb33777bf41474d1ca377db06cbd07a44725c7d
+Author: nwkeith <nwkeith@fortlewis.edu>
+Date:   Thu Feb 13 11:44:16 2020 -0700
+
+    Removed .project
+
+commit 96372af04beb8dac8aa32fc08c24584c7ce700e5
+Author: nwkeith <nwkeith@fortlewis.edu>
+Date:   Thu Feb 13 11:41:20 2020 -0700
+
+    Added new files from canvas
+
+commit 182c6e279590762a990eacda4c7afaaecaabd057
+Author: nwkeith <48457604+nwkeith@users.noreply.github.com>
+Date:   Thu Feb 13 11:36:29 2020 -0700
+
+    Initial commit
